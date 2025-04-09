@@ -1,3 +1,6 @@
 [submodule "new2"]
 	path = new2
 	url = https://github.com/Light-City/CPlusPlusThings.git 
+[submodule "KamaOS"]
+	path = KamaOS
+	url = https://github.com/youngyangyang04/KamaOS.git
